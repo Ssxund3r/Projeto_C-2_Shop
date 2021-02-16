@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1613404621 source:c:\users\brb\desktop\projeto c 1 - game quiz\projeto_c-2_market\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
